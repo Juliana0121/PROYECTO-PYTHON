@@ -1,0 +1,18 @@
+{
+    "Ventas": [
+        {
+            "Identificador Ventas": 1,
+            "Cliente": "Juan Perez",
+            "Producto": "Internet Fibra Óptica",
+            "Cantidad": 1,
+            "Fecha": "09-05-2021"
+        },
+        {
+            "Identificador Ventas": 2,
+            "Cliente": "María González",
+            "Dirección": "Plan pospago",
+            "Telefono": 2,
+            "Categoria": "08-05-2020"
+        }
+    ]
+}

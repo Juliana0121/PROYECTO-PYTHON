@@ -1,0 +1,20 @@
+{
+    "Usuario": [
+        {
+            "Identificador": 1,
+            "Nombre": "Juan Perez",
+            "Dirección": "Calle 542, Ciudad Bogota",
+            "Telefono": 3256984217,
+            "Categoria": "Nuevo cliente",
+            "Servicios utilizados": ["Internet de Fibra Óptica", "Plan pospago"]
+        },
+        {
+            "Identificador": 1,
+            "Nombre": "María González",
+            "Dirección": "Carrera 37, Ciudad Bucaramanga",
+            "Telefono": 3659226540,
+            "Categoria": "Nuevo cliente",
+            "Servicios utilizados": ["Internet de Fibra Óptica", "Plan pospago"]
+        }
+    ]
+}

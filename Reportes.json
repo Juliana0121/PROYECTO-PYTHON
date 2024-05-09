@@ -1,0 +1,16 @@
+{
+    "Reportes": [
+        {
+            "Identificador": 1,
+            "Tipo": "Informe de ventas",
+            "Fecha": "09-05-2021",
+            "Contenido": "Informe detallado de las ventas realizadas en el mes de mayo"
+        },
+        {
+            "Identificador": 1,
+            "Tipo": "Análisis de servicios",
+            "Fecha": "08-05-2021",
+            "Contenido": "Ánalisis de los servicios más populares entre los usuarios"
+        }
+    ]
+}

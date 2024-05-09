@@ -1,0 +1,23 @@
+{
+    "Servicios": [
+        {
+            "Identificador": 1,
+            "Nombre": "Internet de Fibra Óptica",
+            "Precio": 50.00,
+            "Descripción": "Servicio de Internet de alta velocidad a tráves de fibra óptica"
+        },
+        {
+            
+            "Identificador": 2,
+            "Nombre": "Plan pospago",
+            "Precio": 30.00,
+            "Descripción": "Plan de telefonia móvil con pago mensual"
+        },
+        {
+            "Identificador": 3,
+            "Nombre": "Prepago",
+            "Precio": 20.00,
+            "Descripción": "Plan de telefonia móvil con pago adelantado"
+        }
+    ]
+}

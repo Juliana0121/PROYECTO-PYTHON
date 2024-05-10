@@ -1,0 +1,48 @@
+{
+    "Servicios": {
+        "Internet": {
+            "Fibra Optica": "650.000 COP",
+            "Internet Hogar 350MB/s Simetrico": "369.999 COP"
+        },
+        "Planes Pospago": {
+            "Mensual": "59.999 COP",
+            "Quincenal": "35.999 COP"
+        },
+        "Planes Prepago": {
+            "Mensual": "49.999 COP",
+            "Semanal": "7.999 COP"
+        }
+    },
+    "Productos": {
+        "Xiaomi Redmi Note 10s": {
+            "precio": "537.719 COP",
+            "Memoria interna": "128 GB",
+            "Cámara frontal principal": "13 Mpx",
+            "Cámara trasera principal": "64 Mpx"
+        },
+        "Apple iPhone 13": {
+            "precio": "2.519.900 COP",
+            "Memoria interna": "128 GB",
+            "Cámara frontal principal": "12 Mpx",
+            "Cámara trasera principal": "12 Mpx"
+        },
+        "Samsung Galaxy Z": {
+            "precio": "4.599.900 COP",
+            "Memoria interna": "256 GB",
+            "Cámara frontal principal": "10 Mpx",
+            "Cámara trasera principal": "12 Mpx"
+        },
+        "Motorola Edge 40 Neo": {
+            "precio": "1.300.000 COP",
+            "Memoria interna": "256 GB",
+            "Cámara frontal principal": "32 Mpx",
+            "Cámara trasera principal": "50 Mpx"
+        }
+    },
+    "Servicios Populares": {
+
+    },
+    "Productos Populares": {
+
+    }
+}

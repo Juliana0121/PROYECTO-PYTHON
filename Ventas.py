@@ -1,6 +1,6 @@
 import json
 
-def cargar_ventas():
+def cargar_ventas(arvico):
     try:
         with open('ventas.json', 'r') as file:
             return json.load(file)
@@ -30,3 +30,4 @@ def eliminar_venta(identificador_venta):
         guardar_ventas(ventas_actualizadas)
         return True
     return False
+
